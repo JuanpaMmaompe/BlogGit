@@ -1,2 +1,4 @@
-peueba inicial
-segundo cambio 
+prueba inicial
+segundo cambio
+primer commit no quedo 
+Tercer commit arreglar letra en prueba
